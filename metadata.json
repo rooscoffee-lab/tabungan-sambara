@@ -1,0 +1,6 @@
+{
+  "name": "Tabungan Sambara",
+  "description": "Aplikasi tabungan virtual anak non-bank yang ceria dan edukatif dengan sistem 3 pos celengan, target impian, papan misi, dan maskot interaktif Sambara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
